@@ -1,6 +1,6 @@
 {
     'name': "Transport Management System",
-    'version': "0.1",
+    'version': "1.0",
     'depends': ["stock_picking_batch","fleet"],
     'author': "Yagnik (yagp)",
     'summary': "Transport Management System",

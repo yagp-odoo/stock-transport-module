@@ -4,6 +4,7 @@
     'depends': ["stock_picking_batch","fleet"],
     'author': "Yagnik (yagp)",
     'summary': "Transport Management System",
+    'category': 'Inventory',
     'data': [
         "security/ir.model.access.csv",
         "views/stock_fleet_views.xml",
